@@ -1,1 +1,2 @@
 This is a new line in First.txt file
+This is a second line in First.txt file
