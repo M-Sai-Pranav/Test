@@ -1,1 +1,3 @@
 1st line - newFeature1
+
+2nd line - newFeature1
