@@ -1,3 +1,13 @@
 1st line - fist.txt
 
 2nd line - fist.txt
+
+git checkout main
+git checkout -b newFeature2
+create a text file
+git status
+git add text file
+git status
+git commit -m "newFeature2 commit"
+git push origin newFeature2
+
