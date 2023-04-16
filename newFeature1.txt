@@ -3,3 +3,4 @@
 2nd line - newFeature1
 
 3rd line - newFeature1
+3rd line in another Branch
